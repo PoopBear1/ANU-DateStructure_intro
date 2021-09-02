@@ -1,5 +1,6 @@
-# A Stack implementation
+##Isaac Zhang 
 
+# A Stack implementation
 class Stack:
     # Constructor, which creates a new empty stack:
     def __init__(self, capacity):
